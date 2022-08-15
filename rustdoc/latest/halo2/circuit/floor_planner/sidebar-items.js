@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["V1","The version 1 [`FloorPlanner`] provided by `halo2`."],["V1Pass","A single pass of the [`V1`] layouter."]]});

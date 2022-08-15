@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["CircuitCost","Measures a circuit to determine its costs, and explain what contributes to them."],["MarginalProofSize","The marginal size of a Halo 2 proof, broken down into its contributing factors."],["ProofSize","The size of a Halo 2 proof, broken down into its contributing factors."]]});
